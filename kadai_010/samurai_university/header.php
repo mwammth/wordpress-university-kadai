@@ -24,7 +24,7 @@
               <a href="index.php">
                 <div class="logo_text">
                   <a href="/">
-                    <img src="<?php echo get_template_directory_uri(); ?>images/logo_big.png" alt="" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/images/logo_big.png" alt="" />
                     <span>Samurai University</span>
                   </a>
                 </div>
